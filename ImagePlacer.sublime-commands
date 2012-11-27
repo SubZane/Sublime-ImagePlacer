@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "ImagePlacer: Place Image",
+        "command": "place_image"
+    }
+]

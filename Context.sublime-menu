@@ -1,0 +1,13 @@
+[
+    { "id": "reveal" },
+    { "caption": "ImagePlacer",
+        "children":
+            [
+                { "id": "reveal" },
+						    {
+						        "caption": "Place Image",
+						        "command": "place_image"
+						    }
+            ] 
+    }
+]
