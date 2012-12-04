@@ -1,4 +1,4 @@
-Sublime-Placehold.it
+ImagePlacer
 =============================
 
 ImagePlacer is a plugin for Sublime Text 2
